@@ -7,9 +7,9 @@ A Modern Take on the Classic Snake Game. Designed with Pygame, one of Python's p
 [https://mehmetemineker.github.io/snake-game/](https://mehmetemineker.github.io/snake-game/)
 
 ## 🌟 Highlights
-Dynamic Game Mechanics: The longer you eat the snake, the higher the difficulty level.
-Collision Detection: Game ends when the snake hits its own tail or screen borders.
-Customization: Colors, screen size, speed settings can be easily changed.
+- **Dynamic Game Mechanics:** The longer you eat the snake, the higher the difficulty level.
+- **Collision Detection:** Game ends when the snake hits its own tail or screen borders.
+- **Customization:** Colors, screen size, speed settings can be easily changed.
 
 ## Why This Project?
 
